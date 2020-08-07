@@ -5,7 +5,7 @@ The source code will be open after the paper is accepted
 
 As an additional supplement to the manuscript, the experimental contents of the five training\test sets in content-unaware detection are listed as follows
 
-cif videos
+CIF videos
 
 round1
 
@@ -39,11 +39,8 @@ test:  akiyo, bridge_far, bus, crew, coastguard,  football,  husky,  mad, mobile
 
 
 
+
 720P videos
-
-partA: mobcal, shields_ter, stockholm, Johnny, KristenAndSara, park_joy, vidyo3
-
-partB: parkrun_ter, ducks_take_off, FourPeople, in_to_tree, old_town_cross, vidyo1, vidyo4
 
 round1
 
