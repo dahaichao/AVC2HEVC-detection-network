@@ -70,3 +70,24 @@ round5
 train: parkrun, shields, stockholm, ducks_take_off, park_joy, vidyo3, vidyo4
 
 test: mobcal, FourPeople, Johnny, KristenAndSara, in_to_tree, old_town_cross, vidyo1
+
+1080p videos
+
+round1
+
+train: blue_sky，ducks_take_off，old_town_cross，pedestrian_area，rush_field_cuts，snow_mnt，station2，touchdown_pass，west_wind_easy
+
+test: crowd_run，in_to_tree，park_joy，riverbed，rush_hour，speed_bag，sunflower，tractor
+
+round3
+
+train: crowd_run，ducks_take_off，park_joy，rush_hour，speed_bag，snow_mnt，sunflower，tractor，west_wind_easy
+
+test: blue_sky，in_to_tree，old_town_cross，pedestrian_area，riverbed，rush_field_cuts，station2，touchdown_pass
+
+round5
+
+train: blue_sky，in_to_tree，old_town_cross，rush_hour，riverbed，rush_field_cuts，station2，sunflower，tractor
+
+test: crowd_run，ducks_take_off，park_joy，pedestrian_area，speed_bag，snow_mnt，touchdown_pass，west_wind_easy
+
